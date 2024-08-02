@@ -1,0 +1,70 @@
+body{
+	background-image: url("background.png");
+    background-color:cadetblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: lightblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1_name , #player_2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: white;
+}
+#word
+{
+	width: 60%;
+}
+#number_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: lightblue;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#login{
+	color:snow;
+}
+#title{
+	color: snow;
+}
+#number_2{
+	color: snow;
+}
+#number_1{
+	color: snow;
+}
+#player_question{
+	color: snow;
+}
+#player_answer{
+	color: snow;
+}
+#send_word{
+	color: snow;
+}
+#player_1_score{
+	color: snow;
+	font-weight: bold;
+	font-size:25px ;
+	margin-left:10px;
+}
+#player_2_score{
+	color: snow;
+	font-weight: bold;
+	font-size:25px ;
+	margin-left: 10px;
+}
